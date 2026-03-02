@@ -1,13 +1,7 @@
-# 🤖 AI & 자동화
+# 🤖 자동화 & 스크립팅
 
-## OpenClaw 세팅
-- 두식(AI 어시스턴트) 운영 중
-- 매일 아침 9시 경제 브리핑 자동화
-- GitHub 자동 푸시
-
-## 설치된 스킬
-- us-stock-analysis
-- news-summary
-- crypto-market-data
-- crypto-trading-bot
-- github / openclaw-github-assistant
+## 관심 분야
+- 반복 작업 자동화
+- 크론 스케줄링
+- API 연동
+- 데이터 수집 & 분석
